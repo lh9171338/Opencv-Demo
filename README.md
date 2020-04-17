@@ -2,7 +2,7 @@
 ===
 
 # 1. Intrduction
->>This repository is the source codes of "Introduction to OpenCV3 Programming".
+>>This repository is the source codes of Qian Mo's book "Introduction to OpenCV3 Programming".
 
 # 2. Dependency
  - [Opencv-4.0.0](https://github.com/lh9171338/Opencv-Windows/tree/4.0.0)
